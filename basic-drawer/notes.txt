@@ -1,0 +1,4 @@
+1. Creating and resizing
+2. Drawing elements
+3. Animating elements
+4. Interacting with elements
